@@ -14,7 +14,7 @@ npm install
 
 In your ```.env``` file, add your OpenAI API key:
 ```bash
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+OPENAI_API_KEY=sk-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
 ```
 
 And in your ```nuxt.config.ts``` file, access the environment variable for the key:
